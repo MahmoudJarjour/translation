@@ -1,0 +1,913 @@
+{
+    "specialCourts":{
+        "intro":{
+          "title" :"Civil Special Courts",
+          "subtitle":"The judicial system in Lebanon consists of ordinary courts and special courts, or what is known as the exception courts.",
+          "types":{
+            "title":"Like ordinary courts, special courts are divided into two types:",
+            "first":"Civil Courts",
+            "second":"Penalty Courts",
+            "title2":"Special civil courts differ from special penalty courts Where:",
+            "one":"Shape",
+            "two":"Specialty",
+            "three":"Appearance",
+            "four":"And other things ..."
+          }      
+        },
+        "theSpecialCivilCourts":{
+          "theLaborArbitrationCouncil":{
+            "title":"The Labor Arbitration council",
+            "subtitle":"The Lebanese project did not want to subject labor cases to ordinary courts, He established the Arbitration Labor Council",
+            "type":{
+              "one":"Description",
+              "two":"Centers",
+              "three":"Terms Of Members",
+              "four":"Specialty",
+              "five":"Time Limit For Lawsuit",
+              "six":"The Features"
+            },
+            "description":{
+              "title":"The Labor Arbitration Council is the competent court to consider disputes resulting from the employment contract and arising between workers and employers, and the National Social Security Fund (NSSF / CNSS) is often a party to this contract.",
+              "subtitle":"The Labor Arbitration Council is composed of judges and non-judges (representing “employees”, “employers” and “the state”), according to the following distribution: \"however, he is not bound by the period of detention imposed on the investigative judge based on Article 108 of the Code of Criminal Procedure.",
+              "types":{
+                "one":"PRESIDENT",
+                "discription1":"A judge of the eleventh degree and above; appointed by decree based on the proposal of the Minister of Justice and the approval of the Higher Judicial Council.",
+                "two":"TWO MEMBERS",
+                "discription2":"A representative of the employers and a representative of the employees. They are appointed by decree on the proposal of the Minister of Labor.",
+                "three":"GOVERNMENT COMMISSIONER",
+                "discription3":"Is chosen among the third degree employees of the public administrations, and he/she must hold a degree in law. The Government Commissioner is appointed by decree based on the proposal of the Minister of Labor."
+              },
+              "subtitle2":"Two associate members, one from the employees and another from the employers, are appointed to replace the original representative in the event of absence. These are appointed by decree based on the proposal of the Minister of Labor."
+            },
+            "centers":{
+              "subtitle":"The number of chambers of the arbitral labor council on the ground differs from what is stipulated by law, according to the following:",
+              "cazaJudges" :{
+                "title":{
+                  "Beirut":"Beirut",
+                  "northLebanon":"North Lebanon",
+                  "akkar":"Akkar",
+                  "mountLebanon":"Mount Lebanon",
+                  "nabatiyeh":"Nabatiyeh",
+                  "southLebanon":"South Lebanon",
+                  "bekaa":"Bekaa",
+                  "baalbek":"Baalbek-Hermel"
+                },
+              
+                "cazaJudgesCenters":{
+                  "palaceOfJusticeBeirut":"Palace of Justice Beirut",
+                  "sarayaTrablos" :"Saraya Trablos",
+                  "saraya Halba":"Saraya Halba",
+                  "baabdaPalaceOfJustice":"Baabda Palace Of Justice",
+                  "nabatiyehPalaceOfJustice":"Nabatiyeh Palace Of Justice",
+                  "sarayaSaida":"Saraya Saida",
+                  "palaceOfJusticeZahle":"Palace of Justice Zahle",
+                  "sarayaBaalbek":"Saraya Baalbek"
+              },
+              "numberOfChambers":"Chambers",
+              "realNumberOfChambers":"Real Number Of Chambers",
+              "alert":"Click the Caza to display Data"
+            }
+             },
+            "termOfMembers":{
+              "title":"What is the term of office of members of the Labor Arbitration Council and when does it end?",
+              "subtitle":"The term of office of the principal and associate members of the Labor Arbitration Council is three years, renewable.",
+              "memebership":{
+                "title":"The membership of the members of the Labor Arbitration Council may terminate before the end of their appointment period, by virtue of a decree based on the proposal of the Ministers of Labor and Justice, provided that certain cases provided for in Article 3 of Decree No. 1962/9931 are met:",
+                "one":"The member submits his resignation to the Ministry of Labor.",
+                "two":"One of the appointment conditions stipulated in Paragraphs 1 and 3 of Article 79 of the Labor Law is missing.",
+                "three":"The member is absent from one session without a legitimate excuse.",
+                "four":"He committed a serious mistake, incompetence or gross negligence in the exercise of his job"
+              }
+            },
+            "specialty":{
+              "title":"What is the jurisdiction of the Labor arbitration council?",
+              "accordingToArticle79":{
+                "title":"According to Article 79 of the Labor Law issued on September 1946,23 (amended), the Labor Arbitration Council is competent to consider:",
+                "one":"Disputes arising from setting the minimum wage.",
+                "two":"Disputes arising from work emergencies stipulated in Legislative Decree No. 25 issued on May ,4 1943",
+                "three":"Disputes arising from leaving work, dismissal from service, and the imposition of fines",
+                "four":"Considering, in general, all disputes arising between employers and employees from the application of the labor law"
+    
+              },
+              "accordingToArticle2":{
+                "title":"According to Article 2, coupled with Article 1, of the law relating to the competence of the Labor arbitration council, issued on October 1980 ,21, the latter is competent to consider:",
+                "one":"Individual labor disputes arising from labor relations as per Article 624, first paragraph, of the Code of obligations and contracts which states that a work or service lease is a contract under which one of the contracting parties commits to make his work subject to the service and management of the other party, in return for a wage that this party is obligated to pay to him",
+                "two":"Disagreements and disputes stipulated in Article 85 of the Social Security Law i.e. those that may be raised by the application of the Social Security Law, whether they arise between the insured and employers, or between the NSSF and the insured or employers"
+              },
+              "individualLaborDisputes":{
+                "title":"Individual Labor Disputes",
+                "subtitle":"Mean labor disputes that arise between the worker or employee and the employer regarding the implementation of the labor relationship between these two parties and that arise due to a breach of one of the legally established rights or the failure of one of the parties to implement the obligations imposed on him."
+              },
+              "collectiveLaborDisputes":{
+                "title":"Collective Labor Disputes",
+                "subtitle":"Individual labor disputes differ from collective labor disputes. The latter are the various disputes that arise from the interpretation, implementation or application of the content of a collective labor contract and which are related to a collective interest. It is required that one of its parties be a group of wage earners. Collective labor disputes are resolved through mediation and arbitration."
+              },
+              "decisions":{
+                "title":"Are the decisions of the Labor Arbitration Council appealable?",
+                "subtitle":"Judgments of the Labor Arbitration Council only admits as a means of appeal:",
+                "cards":{
+                  "one":{
+                    "title":"Objection",
+                    "subtitle":"It is one of the usual means of appeal used by a person against whom a judgment in absentia has been issued.",
+                    "remark":"The deadline for objection is (( 15 days )) from the date of notification of the judgment."
+                  },
+                  "two":{
+                    "title":"Third party objection",
+                    "subtitle":"It is one of the unusual means of appeal submitted by a person aggrieved by the judgment and who was neither a litigant in the lawsuit nor represented in it.",
+                    "remark":"Subject to normal limitation period, i.e.(( 10 years ))"
+                  },
+                  "three":{
+                    "title":"Cassation",
+                    "subtitle":"It is one of the unusual means of appeal.",
+                    "first":{
+                      "title":"If The Judgment Was Contradictory",
+                      "subtitle":"The time limit for cassation is 30 days from the date of notification"
+                    },
+                    "second":{
+                      "title":"If the judgment was in absentia",
+                      "subtitle":"The time limit for cassation is 30 days from the date of the expiry of the objection deadlines"
+                    }
+                    
+                  }
+                  
+                },
+                "remark":"The Court of Cassation must issue its rulings within 6 months from the date on which the notifications end, because labor cases cannot be delayed."
+              }
+            },
+            "timeLimitForLawsuit":{
+              "title":"What are the deadlines for the presentation of the complaint to the Labor?",
+              "one":{
+                "title":"Arbitrary Dismissal",
+                "card1":{
+                  "title":"The deadline",
+                  "subtitle":"10 years"
+                },
+                "card2":{
+                  "title":"Lodge the complaint",
+                  "subtitle":"The place where to lodge the complaint Palace of justice in the area where the institution where the employee works is located"
+                },
+                "card3":{
+                  "title":"Remarks",
+                  "subtitle":"The employee must submit a complaint of arbitrary dismissal within a month from the date of notification of his dismissal, otherwise he/she might lose his/her right to claim compensation for the arbitrary dismissal.- The Labor Arbitration Council shall decide on cases of arbitrary dismissal within a period not exceeding three months."
+                }
+              },
+              "two":{
+                "title":"Work Emergencies",
+                "card1":{
+                  "title":"The deadline",
+                  "subtitle":"One year as of the date of occurrence of the accident or the closing of the investigation or the stopping of temporary indemnities"
+                },
+                "card2":{
+                  "title":"Lodge the complaint",
+                  "subtitle":"Palace of Justice of the area where the accident took place"
+                },
+                "card3":{
+                  "title":"Remarks",
+                  "subtitle":"The employer must submit a declaration of a work emergency that hit the employee within 3 days of the occurrence.- The employee must submit a medical report to the Registry of the Labor Arbitration Council about the consequences of the accident on him. It should be noted that the law did not impose a specific deadline on the employee for submitting the medical report"
+                }
+              },
+              "three":{
+                "title":"Claim of indemnities, salaries and related allowances",
+                "card1":{
+                  "title":"The deadline",
+                  "subtitle":"2 years"
+                },
+                "card2":{
+                  "title":"Lodge the complaint",
+                  "subtitle":"Palace of justice in the area where the institution where the employee works is located"
+                },
+                "card3":{
+                  "title":"Remarks",
+                  "subtitle":"The deadline starts after the employee quits his job"
+                }
+              },
+              "four":{
+                "title":"Other Requests",
+                "card1":{
+                  "title":"The deadline",
+                  "subtitle":"10 years"
+                },
+                "card2":{
+                  "title":"Lodge the complaint",
+                  "subtitle":"Palace of justice in the area where the institution where the employee works is located"
+                },
+                "card3":{
+                  "title":"Remarks",
+                  "subtitle":"-"
+                }
+              }
+    
+            },
+            "features":{
+              "title":"What are the advantages of litigation at the arbitral labor council?",
+              "subtitle":{
+                "one":"The aim of litigation before the Labor Arbitration Council is to protect the weak party, i.e. the wage-earner.",
+                "two":"Therefore, in order to achieve this goal, the right to litigate before the Labor Arbitration Council was given many characteristics that distinguished it from the ordinary judiciary mentioned previously.",
+                "three":"These features are:"
+              },
+              "Features":{
+                "one":{
+                  "title":"Judicial fees and the financial stamp fee",
+                  "subtitle":"Exempting the individual labor dispute from judicial fees and the financial stamp fee, except for the expenses that remain at the expense of the losing party."
+                },
+                "two":{
+                  "title":"The speed of settlement of the dispute",
+                  "subtitle":"This means that the Labor Arbitration Council considers cases submitted to it in an urgent manner, so it must decide on the dispute within a period of 3 months. The aim is to resolve the cases as quickly as possible, because the wage earner is often unable to wait for a long time due to his modest financial conditions.",
+                  "remark":"However, in practice, it takes a longer period to decide on cases before the Labor Arbitration Labor Council, and the -3month period is not respected."
+                },
+                "three":{
+                  "title":"Simplification of court procedures",
+                  "subtitle":"This means the possibility of appearing before the Labor Arbitration Council without the assistance of a lawyer. However, it is advisable to resort to the expertise of a lawyer because in many cases the wage earner might not be aware of his rights."
+                },
+                "four":{
+                  "title":"The appeal does not suspend execution",
+                  "subtitle":"Executing the decisions of the Labor Arbitration Council despite the appeal"
+                }
+                
+              }
+    
+            }
+          },
+          "theSpecialBankingCourt":{
+            "title":"The Special Banking Court",
+            "subtitle":"The Special Banking Court was established by the Law «Reform of Banking Situation» at 1991 under Law No. 110/91.",
+            "one":"The Special Bank Court stated in article 2 of law no. 110/91",
+            "two":"The Special Bank Court stated in article 15 of law no. 110/91",
+            "material2":{
+              "description":{
+                "title":"Description",
+                "one":{
+                  "title":"PRESIDENT",
+                  "subtitle":"A judge of second degree and above"
+                },
+                "two":{
+                  "title":"Two judges",
+                  "subtitle":"Two judges of the fourth degree and above (members)"
+                },
+                "three":{
+                  "title":"An expert in financial or accounting affairs",
+                  "subtitle":"Who has at least 10 years of experience suggested by the Minister of Finance (member)"
+                },
+                "four":{
+                  "title":"An expert in bank affairs",
+                  "subtitle":"Who has at least 10 years of experience suggested by the Governor of Banque du Liban (member)"
+                },
+                "five":{
+                  "title":"Three reserve judges",
+                  "subtitle":"A president and two members"
+                },
+                "remark":{
+                  "one":"The president and other members are appointed by virtue of a decree based on the suggestion of the Minister of Justice after obtaining the approval of the Supreme Judicial Council.",
+                  "two":"However, the two remaining members are appointed by virtue of a decree based on the suggestion of the Minister of Finance."
+                }
+    
+              },
+              "centers":{
+                "title":"Centers",
+                "content":{
+                  "headquarters":"Its headquarters",
+                "subtitle":"The Special Bank Court is headquartered in Beirut"
+                }
+              },
+              "specialty":{
+                "title":"specialty",
+                "content":{
+                  "title":"What is the jurisdiction of the Special Bank Court stated in article 2?",
+                  "subtitle":"Disposal, upon a referral justified by the Governor of Banque du Liban, on any bank if it appears that its status no longer enables it from performing its activities."
+                }
+                
+              },
+              "decisions":{
+                "title":"Decisions",
+                "content":{
+                  "title":"Are the decisions issued by the Special Bank Court stated in article 2 appealable?",
+                  "one":"The decisions of the Special Bank Court issued within at utmost delay of 20 days as from the date of receiving the referral",
+                  "two":"They do not accept any means of ordinary or extraordinary recourse",
+                  "three":"These decisions are urgently executed on their original"
+                }
+              }
+            },
+            "material15":{
+              "description":{
+                "title":"Description",
+                "one":{
+                  "title":"A president and two members",
+                  "subtitle":"By virtue of a decree based on the suggestion of the Minister of Justice after obtaining the approval of the Supreme Judicial Council"
+                },
+                "two":{
+                  "title":"It consists of one or more bodies",
+                  "subtitle":"Currently, it consists of two bodies"
+                },
+                "cases":"In case the president or one of the members is absent or fails to attend",
+                "remark":{
+                  "one":"The first president of the Appellate Court of Beirut shall be appointed as a judge replacing the delegated member who is absent or fails to attend"
+                }
+    
+              },
+              "centers":{
+                "title":"Centers",
+                "content":{
+                  "headquarters":"Its headquarters",
+                "subtitle":"The Special Bank Court is headquartered in Beirut"
+                }
+              },
+              "specialty":{
+                "title":"specialty",
+                "content":{
+                  "title":"What is the jurisdiction of the Special Bank Court stated in article 15?",
+                  "content":{
+                    "title":"The Special Court stated in article 15 considers all lawsuits and disputes related to banks",
+                    "one":"That will be disposed according to the provisions of this law.",
+                    "two":"That stopped payment or it will be announced that it stopped paying before the issuance of law no. 110/91.",
+                    "subcontentone":{
+                      "title":"Excluded from the jurisdiction of this court.",
+                      "one":"Penal Lawsuits",
+                      "two":"Administrative Lawsuits",
+                      "three":"Labor Lawsuits",
+                      "four":"Lawsuits For Which Final Judgments Have Been Issued",
+                      "remark":"in addition to lawsuits that fall within the jurisdiction of other courts by virtue of special laws are excluded from the jurisdiction of this court"
+                    },
+                    "subcontent2":{
+                      "title":"When does the jurisdiction of this court take place?",
+                      "one":"When the bank faces financial distress and a judgment declaring its bankruptcy is issued by the bankruptcy court",
+                      "two":"Then the National Deposit Insurance Corporation shall manage the bank",
+                      "three":"In the case of any dispute arising between the National Deposit Insurance Corporation and any third person (such as the bank’s creditors or debtors)",
+                      "four":"The Bank Court stated in Article 15 shall have the jurisdiction to consider the dispute"
+                    }
+                  }
+                }
+                
+              },
+              "decisions":{
+                "title":"Decisions",
+                "content":{
+                  "title":"Are the decisions issued by the Special Bank Court stated in article 15 appealable?",
+                  "remark":{
+                    "one":"The decisions of the Special Bank Court accept the appeal before the Appellate Court within thirty days as from the date of their issuance",
+                    "two":"provided that the claimed or objected amount shall exceed ten million Lebanese pounds"
+                  }
+                }
+              }
+            }
+    
+          },
+    
+          "theArbitrationCouncilrelatedToPrivatePaidSchools":{
+            "title":"The Arbitration Council related to private paid schools",
+            "one":"The law on “freezing school premiums from private paid schools” stated this council.",
+            "two":"This law has stated the establishment of special arbitration councils, with one council for each pedagogical region.",
+            "description":{
+              "title":"Description",
+            "content":{
+                "title":"The Arbitration Council related to private paid schools consist",
+                "one":{
+                "title":"A judge", 
+                "subtitle":"President of the arbitration council"
+                },
+                "two":{
+                  "title":"Two consultants",
+                  "subtitle":{
+                    "one":"One representing the owners of schools",
+                    "two":"The other representing the parents’ committees or guardians of students in the pedagogical region"
+                  },
+                  "remark":"Each of them has an alternate"
+                },
+                "three":{
+                  "title":"A government commissioner",
+                  "subtitle":{
+                    "one":"Represent the government before the Arbitration Council.",
+                    "two":"Delegated by m the Minister of Education from among the employees of third category and above who work at the Ministry"
+                  }
+                },
+                "remark":"The members of the council are appointed by virtue of a decree based on the suggestions of the Ministers of Justice and Education."
+              }
+           },
+            "specialty":{
+              "title":"Specialty",
+              "content":{
+                "title":"The Labor Arbitration Council considers",
+                "one":"The Labor Arbitration Council considers, based on the recourse made by the Minister of Education, the parents’ committee or any damaged person",
+                "two":"All disputes arising from the application of the law on freezing school premiums in private paid schools, except the forgery in statements and data since it falls within the jurisdiction of Ordinary Criminal Courts",
+                "decisions":{
+                  "title":"Are the decisions issued by the Arbitration Council related to private paid schools appealable?",
+                  "subtitle":"The judgments issued by the Arbitration Council do not accept any means of recourse except objection."
+                }
+              }
+    
+              
+            },
+            "features":{
+              "title":"Features",
+              "content":{
+                "title":"the advantages of litigation before the Arbitration Council related to private paid schools",
+                "subtitle":"The legislator gave the litigation before the Arbitration Council related to private paid schools many advantages that are unavailable in the litigation before the ordinary judiciary. These advantages include the following:",
+                "notes":{
+                  "one":"Exempting the recourses submitted before it from judicial fees.",
+                  "two":{
+                    "title":"The speed to settle the dispute:",
+                    "subtitle1":"This means that the law has imposed on the Arbitration Councils related to private paid schools the adoption of brief principles and extraordinary notice means,",
+                    "subtitle2":"As well as the issuance of judgments within an utmost deadline of two months as from the date of submitting the recourse.",
+                    "remark":"However, in reality, rendering decisions in the recourses takes a longer period, and the aforementioned two-month deadline is not respected."
+                  },
+                  "three":{
+                    "title":"Simplify trail procedure",
+                    "subtitle":"This means the possibility of submitting and pursuing the recourse without appointing a lawyer"
+                  }
+                  
+                }
+              }
+            }
+          },
+          "theInsuranceArbitrationCouncil":{
+            "title":"Insurance Arbitration Council",
+            "subtitle":{
+              "one":"The Insurance Arbitration Council was established at the Ministry of Economy and Trade in accordance with the law regulating insurance bodies.",
+              "two":"!!In the case of benefiting from the Social Security, the jurisdiction to consider the lawsuit will belong to the Labor Arbitration Council. However, in the presence of a guarantee contract according to the conditions mentioned in the law, the jurisdiction will belong to the Insurance Arbitration Council.",
+              "three":"The guarantee contract means the insurance contract. The majority of persons not having an official guarantee, i.e. not affiliated to the Staff Cooperative of National Social Security Fund resort to the organization of “insurance” contracts with private companies.",
+            
+              "composition":{
+                  "title":"Composition",
+                  "content":{
+                    "title":"The Insurance Arbitration Council is composed of two committees:",
+                    "one":{
+                      "title":"First Committe",
+                      "specialization":{
+                        "title":"Specialization:",
+                        "subtitle":"Concerned with looking into disputes arising from car and vehicle insurance contracts and traffic accidents."
+                      },
+                      "consists":{
+                        "title":"This committee consists of :",
+                        "one":"A retired judge or a judge of the eleventh degree or above as president.",
+                        "two":"An expert specialist in insurance issues, as a member.",
+                        "three":"An expert in traffic affairs and accidents, as a member."
+                      }
+    
+    
+                    },
+                    "two":{
+                      "title":"Second Committe",
+                      "specialization":{
+                        "title":"Specialization:",
+                        "subtitle":"Concerned with examining disputes arising from medical and hospital insurance contracts."
+                      },
+                      "consists":{
+                        "title":"This committee consists of :",
+                        "one":"A retired judge or a judge of the eleventh degree or above as president.",
+                        "two":"An expert specialist in insurance issues, as a member.",
+                        "three":"A doctor, as member"
+                      }
+                    },
+                    "remark":"A government commissioner shall be appointed to the Insurance Arbitration Council, who shall present his advice on each case and attend court sessions"
+                  }
+              },
+    
+              "jurisdiction":{
+                "title":"Jurisdiction",
+                "content":{
+                    "title":"The Insurance Arbitration Council is competent to consider disputes related to:",
+                    "one":{
+                      "title":"First specialty",
+                      "subtitle":"Financial claims arising from medical and hospital insurance contracts"
+                    },
+                    "two":{
+                      "title":"Second specialty",
+                      "subtitle":"As well as car and vehicle insurance contracts and traffic accidents,"
+                    },
+                    "conditions":{
+                      "title":"In which the following two conditions are to be met:",
+                      "one":"The plaintiff must not have previously lodged a lawsuit related to the same case before the judicial courts.",
+                      "two":"That the value of the claim is less than seventy-five million pounds."
+                    },
+                    "decisions":{
+                      "title":"Are decisions issued by the Insurance Arbitration Council appealable?",
+                      "subtitle":"The judgments issued by the Insurance Arbitration Council accept as only means of appeal the objection, the third parties’ objection and cassation."                
+                    }
+                }
+              }
+            }
+          }
+        },
+        "theSpecialCriminalCourt":{
+          "juvenileCourt":{
+            "title":"Juvenile Court",
+            "subtitle":"The organization of this court and its work principles are governed by Law No. 422 issued on June 06, 2002 under the title of “Protecting the violating juveniles or those prone to danger.”",
+            "consist":{
+              "title":"consist",
+              "content":{
+                "alert":"Click the Caza to display Data",
+                "main":"Who does the juvenile judiciary consist of?",
+                "remark":"In the headquarters of each province, there is a Single Judge and a Civil First Instance Chamber that considers juvenile cases."
+             
+              }
+            },
+            "jurisdiction":{
+              "title":"jurisdiction",
+              "contnet":{
+                "title":"The jurisdiction of the juvenile court",
+                "subtitle":{
+                  "one":"The Juvenile Court has the jurisdiction to consider the public right lawsuit aiming at prosecuting criminals among juveniles who have not yet reached the age of eighteen when committing the crime",
+                  "two":"As well as the personal right lawsuit lodged according to the public lawsuit",
+                  "three":"The Juvenile Court refuses the direct claim lodged before it, but rather allows enables the victim of the criminal offense to include his civil lawsuit in the public right lawsuit lodged before it.",
+                  "four":"However, this prohibition is limited to the claim before the “juvenile courts”. Thus, it is possible to file the personal right lawsuit and move the public lawsuit against the juvenile before another authority, as the single judge if the juvenile and an adult participated in the same crime"
+                },
+                "cards":{
+                  "one":{
+                    "title":"Criminal terms",
+                    "subtitle":"The juvenile who is criminally questioned is the one who has reached seven years old but hasn’t reached eighteen yet"
+                  },
+                  "two":{
+                    "title":"The application of the provisions protecting the juvenile prone to danger",
+                    "subtitle":"They are applied to him regardless of his age, whether he has completed seven years old or not"
+                  }
+                },
+                "disposeTheLawsuit":{
+                  "title":"How The Juvenile Court shall dispose the lawsuit?",
+                  "one":"The Single Judge who considers juvenile cases shall also dispose the case according to the of the Public Prosecution before it",
+                  "two":"By virtue of the accusatory decision issued by the investigating judge",
+                  "three":"By virtue of the indictment issued by the Accusatory Commission in felonies"
+                },
+                "buttons":{
+                  "one":{
+                    "title":"The juvenile participates with an adult in one or combined crimes",
+                    "content":{
+                      "one":"The juvenile court shall impose measures and penalties on the juvenile, after concluding the judgment of the ordinary court against him and after listening to him",
+                      "two":"The juvenile and the adults shall be subject to the procedures of prosecution, investigation and trial before the competent ordinary authority to proceed with the trial of the adult"
+                    }
+                  },
+                  "two":{
+                    "title":"The spatial jurisdiction of judicial authorities in juvenile cases",
+                    "content":{
+                      "one":"The place where the crime occurred",
+                      "two":"The juvenile’s place of residence, home address, family’s home address or the place of his arrest",
+                      "three":"The location of the Correctional and Disciplinary Institute",
+                      "four":"The institution where he was out in or the person to whom he was handed over"
+                    }
+                  },
+                  "three":{
+                    "title":"Penal Legislations",
+                    "content":"Juvenile crimes are defined in the penal code and its complementary penal legislations. However, the imposed penalties are reduced if the juvenile is the one who committed the crime"
+                  },
+                  "four":{
+                    "title":"Presence Of A Lawyer",
+                    "content":{
+                      "title":"The law has mandatorily imposed the presence of a lawyer next to the juvenile in all trials",
+                      "one":"If the juvenile's family does not take the initiative to appoint a lawyer",
+                      "two":"The court may delegate a lawyer or request that from the president of the Bar Association"
+                    }
+                  },
+                  "five":{
+                    "title":"Trial Privacy",
+                    "content":{
+                      "one":"The court shall listen to the juvenile individually",
+                      "two":"And it is entitled to exempt him from attending the trial or some of its procedures if it deems it proper for his interest",
+                      "three":"It considers the presence of his guardian, custodian or representative as sufficient",
+                      "four":"The trials of juvenile are conducted in secret",
+                      "five":"Only the juvenile and his father, the person who guards him, the personal plaintiff, the witnesses, the authorized social representative, the lawyers and any person authorized by the court to attend shall be present",
+                      "six":"The court issues its judgment in a public session",
+                      "seven":"While the prosecution and investigation procedures are carried out in secret"
+                    }
+                  },
+                  "six":{
+                    "title":"Impose measures that do not prevent liberty",
+                    "content":"The Juvenile Court is competent to impose measures that do not prevent liberty, such as censure and freedom of control, and measures that prevent freedom, such as reform and discipline and impose reduced penalties in addition to precautionary measures."
+                  }
+                },
+                "decisions":{
+                  "title":"Can the decisions issued against the juvenile be appealed?",
+                  "subtitle":"It shall be distinguished between adjudicating the juvenile before an ordinary court in conjunction with an adult or adjudicating him before the Juvenile Court.",
+                  "one":{
+                    "title":"Adjudicating the juvenile before the ordinary court",
+                    "subtitle":"The judgments issued against the juvenile by the ordinary courts are appealable according to the ordinary means of appeal applied with respect to the adult, which are: objection, appeal, cassation and retrial."
+                  },
+                  "two":{
+                    "title":"Adjudicating the juvenile before the Juvenile Court",
+                    "content":{
+                      "one":{
+                        "title":"Judgment issued by the single judge who is the juvenile judge in the case of a misdemeanor or violation",
+                        "subtitle":"Judgments are issued in the last degree with the ability to re-trial when the conditions are met in accordance with the Code of Criminal Procedure. As for civil obligations, the judgments are subject to appeal before the Court of Appeal within the time limits and in accordance with the rules of appeal stipulated for such a case in the Code of Criminal Procedure, that is, before the Court of Criminal Appeal."
+                      },
+                      "two":{
+                        "title":"Judgment issued by the civil first instance court at the first instance court in the case of a felony.",
+                        "subtitle":"Recourse is accepted at the Criminal Court of Cassation in accordance with the conditions stipulated in the Code of Criminal Procedure."
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "publicationCourt":{
+            "title":"Publications Court",
+            "subtitle":"The provisions of the Publications Law and the provisions of the law on television and radio broadcasting shall be applied before this court.",
+            "content":{
+              "consist":{
+                "title":"consist",
+                "content":{
+                  "title":"The functions of the Publications Court are performed by one of the Criminal Chambers at the Court of Appeal consists of a president and two consultants",
+                  "one":"President",
+                  "two":"Two consultants"
+                }
+              },
+              "jurisdiction":{
+                "title":"jurisdiction",
+                "content":{
+                  "title":"The jurisdiction of the Publications Court",
+                  "subtitle":"The Publications Court considers the offenses of publications stipulated by virtue of the law and committed through magazines, newspapers, radio and television institutions",
+                  "cards":{
+                    "one":"The offense of defamation, slander and humiliation committed through audiovisual and printed publications",
+                    "two":"The offense of intimidation through publications and threatening to reveal and disclose a certain matter",
+                    "three":"The offense of publishing false news that might disturb public peace or publishing prohibited publications such as criminal and misdemeanor investigations before being read in a public session, the proceedings of the sessions of the Ministries’ Council and the confidential sessions of the Parliament",
+                    "four":"Every paper belonging to a public administration of a confidential nature or persons or bodies harmed therefrom"
+                  },
+                  "interferes":{
+                    "title":"The Publications Court interferes in the lawsuit regarding the said offenses by any of the following means:",
+                    "one":"By virtue of the claim of the public prosecution.",
+                    "two":"By virtue of the accusatory decision issued by the Investigative judge.",
+                    "three":"By virtue of a direct claim lodged by the affected person for the majority of diligence."
+                  },
+                  "judgments":{
+                    "one":"The judgments issued by it shall be subject to recourse before the Court of Cassation for it is an appellate authority.",
+                    "two":"The spatial jurisdiction shall be determined in the offenses of publications within the scope of publishing the publication and not only in a center for printing and issuing the publication."
+                  } 
+                  
+                }
+              }
+            }
+          },
+          "theJudicialCouncil":{
+            "title":"Judicial Council",
+            "subtitle":"Due to the danger caused by some offenses to the state security, the judicial council was formed. It is an exceptional criminal court competent for considering certain offenses only.",
+           
+            "content":{
+              "consist":{
+                "title":"Consist",
+                "content":{
+                  "title":"The judicial council consists of three committees",
+                  "cards":{
+                    "one":{
+                      "title":"Prosecution Committee",
+                      "subtitle":"The public prosecution at the judicial council",
+                      "accordion":{
+                        "title":"Prosecution Committee",
+                        "subtitle":"The public prosecution at this council is represented by the public prosecutor of cassation or his representatives from among his assistants for this purpose."
+                      }
+                    },
+                    "two":{
+                      "title":"Investigation Committee",
+                      "subtitle":"It is presided by the investigative judge",
+                      "accordion":{
+                        "title":"Investigation Committee",
+                        "subtitle":"It is presided by the investigative judge who appoints a judge by a virtue of the decision taken by the minister of justice upon the approval of the Supreme Judicial Council."
+                      }
+                    },
+                    "three":{
+                      "title":"Judgment Committee",
+                      "subtitle":"Which is the judicial council itself",
+                      "accordion":{
+                        "title":"Judgment Committee(The Judical Council itself)",
+                        "subtitle":{
+                          "one":"First president at the court of cassation as a president, and if he fails to do so, the appointed member with the highest rank shall carry out his presidency",
+                          "two":"Four Judges from the court of cassation appointed as members by virtue of the decree taken by the ministers’ council upon the suggestion of the Supreme Judicial Council.",
+                          "three":"In addition, one or more additional judges are appointed by virtue of the same decree to replace the original judges in the case of their death, resignation, revocation or dismissal"
+                        }
+                      }
+                    }
+                  },
+                  "subcontent":"The judicial council is held at the Palace of Justice in Beirut or in the place where the offense had occurred when required or any other place specified by its president in the case of failing to hold it at the Palace of Justice in Beirut."
+                }
+              }
+            },
+            "powerOFJudicalInvestigator":{
+                "title":"Powers Of The Judical Investigator",
+                "content":{
+                  "one":{
+                    "title":"carries out investigation in offences referred to the judicial council",
+                    "subtitle":"he performs the function of the investigative judge and the function of the accusatory commission"
+                  },
+                  "two":{
+                    "title":"The judicial investigator interferes in the lawsuit objectively",
+                    "subtitle":"which means that in case the investigation reveals the presence of a new person who had participated in the offense, he shall interrogate him as a defendant even if his name is not included in the list of claim at the public prosecution."
+                  },
+                  "three":{
+                    "title":"In his investigations, he follows the same rules followed before the ordinary investigative judge",
+                    "subtitle":"however, he is not bound by the period of detention imposed on the investigative judge based on Article 108 of the Code of Criminal Procedure."
+                  },
+                  "four":{
+                    "title":"He issues all warrants required by the investigation without the request of the public prosecution",
+                    "subtitle":"and the decisions issued in this regard are not subject to any means of recourse."
+                  },
+                  "five":{
+                    "title":"The judicial investigator shall issue the arrest warrant against the accused",
+                    "subtitle":"If he fails to issue it, he shall, upon the request of the public prosecutor of cassation, issue it even after lodging the lawsuit. If this is not possible, the President of the judicial council shall issue the warrant at the beginning of the trial."
+                  },
+                  "six":{
+                    "title":"When the judicial investigator completes his investigations",
+                    "subtitle":"he refers the file to the public prosecution of cassation to initiate the revision. Then, the judicial investigator studies the file deeply and either accuses him and referring it to the judicial council or preventing carrying out the trial against him."
+                  },
+                  "button":{
+                    "next": "Next",
+                    "previous": "Previous",
+                    "finish": "Finish"
+                  }
+                }
+              },
+            "jurisdiction":{
+                "title":"Jurisdiction",
+                "content":{
+                  "title":"The jurisdiction of the Judicial Council",
+                  "subtitle":"The judicial council interferes in the lawsuit by virtue of the decree taken in the Ministries’ Council.",
+                  "offenses":{
+                    "title":"competent to consider the following offenses",
+                    "one":"Offenses committed against the state security of the interior and the exterior",
+                    "two":"Offenses committed against public safety, with the exception of offenses related to confidential associations, demonstrations, riot gatherings, rape and infringement on freedom of work.",
+                    "three":"Offenses stipulated in the law of January 11, 1958 (Provoking civil war and sectarian strife…)",
+                    "four":"All offenses resulting from weapons and munitions deals that was or is held by the Ministry of National Defense and the relevant and derived offenses, notably those stipulated from articles 351 to 366 implicitly of the Penal Code, articles 376, 377 and 378 thereof, from articles 453 to 472 implicitly thereof, and articles 138 and 141 of the military judiciary law."
+                  },
+                  "subcontent":{
+                    "one":"If all or some of these offenses were referred to by virtue of the referral to the judicial council, any other criminal court considering them shall immediately stop the follow up and refer the file to the judicial council where all defendants shall be adjudicated.",
+                    "two":"The judicial council is held at the Palace of Justice in Beirut or in the place where the offense had occurred when required or any other place specified by its president in the case of failing to hold it at the Palace of Justice in Beirut."
+                  },
+                  "decisions":{
+                    "title":"Can the decisions of the Judicial Council be appealed?",
+                    "subtitle":{
+                      "one":"The decisions of the judicial council are not subject to any means of ordinary and extraordinary recourse",
+                      "two":"with the exception of objection and retrial"
+                    }
+                  }
+                }
+              }  
+            
+          },
+          "monopolyCases":{
+            "title":"Courts competent for monopoly crimes",
+            "subtitle":"Monopoly can be defined as seizing the items or goods and refraining from selling them until their price increases or they become unavailable in the market regardless of the people’s need for them for political or economic purposes, etc., or the refusal to sell them according to the pricing decision.",
+            "content":{
+              "title":"Monopoly crimes are considered by",
+              "cards":{
+                "one":"President",
+                "two":"Two consultants",
+                "three":"Appellate public prosecutor"
+              },
+              "subcontent":{
+                "one":"Appellate public prosecutor or any attorney general or his assistants",
+                "two":"Monopoly crimes are considered by one of the chambers of the Criminal Appellate Court located in the headquarters of each province.",
+                "three":"Its investigative judge is appointed by a decision of the Minister of Justice"
+              },
+              "jurisdiction":{
+                "title":"Jurisdiction",
+                "subtitle":"It is concerned with examining the crimes stipulated in Legislative Decree No. 54 dated 7/29/83."
+              },
+              "appealable":{
+                "title":"Are the provisions of the courts competent for monopoly crimes appealable?",
+                "remark":"The provisions of the courts competent for monopoly crimes are not subject to any means of recourse except to correct the material error."
+              }
+            }
+          },
+          "militaryCourts":{
+            "title":"Military courts",
+            "governmentCommissionerAndHisAssistants":{
+              "title":"government commissioner and his assistants",
+              "cards":{
+                "one":{
+                  "authorized":"Authorized by the Government at the",
+                  "title":"Permanent Military Court",
+                  "profile":"Profile",
+                  "profileSubtitle":"judge of eleventh degree and above",
+                  "assistants":"Assistants",
+                  "assistantsSubtitle":"Judges or Officers",
+                  "content":{
+                    "one":"Officers are appointed by virtue of the decision of the Minister of Defense, provided that they shall hold the Bachelor’s degree in Law and be ranked as a Captain or more",
+                    "two":"Judges helpers are formed by virtue of a decree of judicial formations"
+                  }
+                },
+                "two":{
+                  "authorized":"Authorized by the Government at the",
+                  "title":"Military Court of Cassation",
+                  "profile":"Profile",
+                  "profileSubtitle":"The public prosecutor of cassation or his representative.",
+                  "assistants":"Assistants",
+                  "assistantsSubtitle":"He doesn't have any helper"
+                }
+              },
+              "content":"The previous government commissioners play the role of the public prosecution at the military courts, and they have the powers of the appellate public prosecutor without contradicting the military judiciary law.",
+              "content2":"The president of such commissioners and their assistants is the public prosecutor at the Court of Cassation.",
+              "remark":"Until this day, there are no military public prosecutions in the provinces or districts."
+            },
+            "militaryInvestigativeJudges":{
+              "title":"Military investigative judges",
+              "content":{
+                "one":{
+                  "consist":{
+                    "title":"Consist",
+                    "subtitle":"They are divided into investigative judges and First investigative judge"
+                  },
+                  "location":{
+                    "title":"Location",
+                    "subtitle":"In Lebanon and at the Military Court Center in Beirut"
+                  },
+                  "permitions":{
+                    "title":"Permitions",
+                    "subtitle":"The military investigative judges and the first military investigative judge practice the same powers practiced by the judicial investigative judges."
+                  },
+                  "appointment":{
+                    "title":"Appointment",
+                    "subtitle":"Investigative judges can be appointed by virtue of the decree of judicial formations or the officers licensed at law."
+                  }
+                },
+                "two":{
+                  "title":"Lawsuits are referred to the investigative judges by virtue of an application paper by the government commissioner before the Military Court."
+                },
+                "three":{
+                  "oldPaper":"Order Paper",
+                  "governmentCommissioner":"Government Commissioner in the Military Court",
+                  "investigationJudges":"Investigation judges in the military court"
+                }
+              }
+            },
+            "militarySingleJudges":{
+              "title":"Military single judges",
+              "cards":{
+                "one":{
+                  "title":"Determine their positions",
+                  "discription":"In the headquarters of provinces include military single judges whose positions are determined by virtue of the decision of the Minister of Defense."
+                },
+                "two":{
+                  "title":"Appointment of military single judges",
+                  "discription":{
+                    "one":"From among the judiciary cadre",
+                    "two":"From among the officers licensed at law with the rank of first Lieutenant and above",
+                    "three":"From among the officers not licensed at law"
+                  }
+                }
+              },
+              "offenses":"The military single judge is competent to consider offenses committed on the land of the province where he is appointed. He considers the following offenses:",
+              "one":{
+                "title":"Violations and misdemeanors",
+                "subtitle":"He considers all violations and misdemeanors stipulated in the Traffic Law and committed within the scope of each province by persons who are subject by virtue of this law to the military judiciary."
+              },
+              "two":{
+                "title":"Other misdemeanors",
+                "subtitle":"Other misdemeanors included in the jurisdiction of the military judiciary, if the relevant penalty does not exceed the fine or imprisonment up to one year or these two penalties."
+              }
+            },
+            "permanentMilitaryCourt":{
+              "title":"Permanent Military Court",
+              "subtitle":"The formation of the Permanent Military Court differs between the lawsuits of felony and misdemeanor.",
+              "cards":{
+                "one":{
+                  "title":"Lawsuits of felony",
+                  "content":{
+                    "one":"An officer with the rank of lieutenant colonel or above, as a president.",
+                    "two":"Four members, including a judge from the cadre of judiciary of the thirteenth degree and above, and three officers with the rank below the rank of the president."
+                  }
+                },
+                "two":{
+                  "title":"Lawsuits of misdemeanor",
+                  "content":{
+                    "one":"An officer with the rank of not below the rank of lieutenant colonel and above, as a president.",
+                    "two":"A judge of the thirteenth degree and above.",
+                    "three":"An officer without the rank of a president.The Government Commissioner is represented before this court either personally or through one of his assistants."
+                  }
+                }
+              },
+              "content":{
+                "title":"The Permanent Military Court is competent to consider:",
+                "one":"All offenses falling outside the region of military single judges.",
+                "two":"Applications of rehabilitation",
+                "three":"An appellate authority to appeal the decisions of the military investigative judges."
+              },
+              "location":"In Lebanon, there is only one Permanent Military Court headquartered in Beirut – facing the National Museum.It interferes in the lawsuit by virtue of the accusatory decision issued by the military investigative judge."
+            },
+            "militaryCourtOfCassation":{
+              "title":"Military Court of Cassation",
+              "one":"In Lebanon, there is one Military Court of Cassation headquartered in Beirut – facing the National Museum.",
+              "two":"The Military Court of Cassation considers the applications of appeal of the judgments issued by the Permanent Military Court.",
+              "three":"The formation of the Military Court of Cassation differs between the lawsuits of felony and misdemeanor.",
+              "cards":{
+                "one":{
+                  "title":"Lawsuits of felony",
+                  "content":{
+                    "one":{
+                      "first":"A judge from among the cadre of the judiciary of the seventh degree and above, who is appointed by the first president of the Court of Cassation, as a president.",
+                      "second":"In the case of his absence, a provisional judge shall be appointed in the same way to replace him."
+                    },
+                    "two":"Four member officers with the rank of lieutenant colonel and above."
+                  }
+                },
+                "two":{
+                  "title":"Lawsuits of misdemeanor",
+                  "content":{
+                    "one":{
+                      "first":"A judge from among the cadre of the judiciary of the seventh degree and above, who is appointed by the first president of the Court of Cassation, as a president.",
+                      "second":"In the case of his absence, a provisional judge shall be appointed in the same way to replace him."
+                    },
+                    "two":"Two member officers with the rank of lieutenant colonel and above. The government commissioner before the Military Court of Cassation shall be represented in this case."
+                  }
+                }
+              }
+            }
+          
+          }
+        }
+      }
+}
